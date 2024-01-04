@@ -126,6 +126,7 @@
 
 ## Browser extensions
 
+- [SearchGPT for Chrome](https://searchgpt.me) - ChatGPT Powered Google, Bing, Yahoo, DuckDuckGo.
 - [ChatGPT for Google](https://chatgpt4google.com) - Display ChatGPT response alongside search engine results.
 - [ChatGPT Prompt Genius](https://github.com/benf2004/ChatGPT-Prompt-Genius) - Discover, share, import, and use the best prompts for ChatGPT.
 - [ChatGPT Box](https://github.com/josStorer/chatGPTBox) - Deep ChatGPT integrations in your browser.
